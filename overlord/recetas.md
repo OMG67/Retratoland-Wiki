@@ -1,4 +1,8 @@
-[Volver](https://github.com/OMG67/Retratoland-Wiki/blob/master/introducci%C3%B3n.md)
+<figure>
+    <img src="/imgs/army.png"
+         alt="Overlord Default Picture"
+         width="1200" height="600">
+</figure>
 
 *Los esqueletos no se pueden crear en una mesa de crafteo o hacer aparecer como un golem, tienen un lugar propio donde hacerlos aparecer con sus propias recetas.*
 
