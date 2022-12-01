@@ -7,6 +7,10 @@
 
 <br>
 
-**[Recetas](https://github.com/OMG67/Retratoland-Wiki/blob/master/recetas.md)**
+**[Recetas](https://github.com/OMG67/Retratoland-Wiki/blob/master/overlord/recetas.md)**
 
-_En esta página se hablan de las recetas de los diferentes esqueletos, los pros y los contras y de como hacerlos aparecer entre otras cosas_
+_En esta página se hablan de las recetas de los diferentes esqueletos, los pros y los contras y de como hacerlos aparecer entre otras cosas._
+
+**[Mejorador De Esqueletos](https://github.com/OMG67/Retratoland-Wiki/blob/master/overlord/mejoradoresqueletos.md)**
+
+_En esta página se explican algunas de las formas de conseguir el **Mejorador De Esqueletos**._
