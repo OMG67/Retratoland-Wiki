@@ -1,3 +1,5 @@
+[Volver](https://github.com/OMG67/Retratoland-Wiki/blob/master/introducci%C3%B3n.md)
+
 *El Mejorador De Esqueletos, es un item muy difícil de encontrar incluso hacia el final del juego, y hay pocas formas de obtenerlo, aqui listamos las que hay.*
 
 **1.- Encontrarlo**
@@ -31,3 +33,5 @@ que requieres objetos que solo otros ethos/orígenes pueden obtener, por lo que 
 
 Si eres un religioso [etho] y no eres arcano [orígen] podrás pedir ayuda a los dioses para obtener el objeto al tener un templo de nivel 3 y cumplir
 las misiones que te den.
+
+[Volver](https://github.com/OMG67/Retratoland-Wiki/blob/master/introducci%C3%B3n.md)

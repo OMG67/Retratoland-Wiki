@@ -1,3 +1,5 @@
+[Volver](https://github.com/OMG67/Retratoland-Wiki/blob/master/introducci%C3%B3n.md)
+
 *Los esqueletos no se pueden crear en una mesa de crafteo o hacer aparecer como un golem, tienen un lugar propio donde hacerlos aparecer con sus propias recetas.*
 
 *Hay 4 tipos de esqueletos, aqui teneis tanto la como crear la tumba para hacer aparecer a los esqueletos como las recetas necesarias.*
@@ -102,4 +104,6 @@ Contras: Extremadamente caro, opcionales caros, requiere buenas armas y armadura
 
 Ahora que hemos definido los esqueletos y sus costes, vamos a ver como hacerlos aparecer.
 
-Lo primero es acabar de construir la tumba, colocando dos bloques de tierra 
+Lo primero es acabar de construir la tumba, colocando dos bloques de tierra.
+
+[Volver](https://github.com/OMG67/Retratoland-Wiki/blob/master/introducci%C3%B3n.md)
