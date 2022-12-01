@@ -1,0 +1,12 @@
+### Bienvenid@ a la wiki de Retratoland 2
+##### Aqui tienes los links a cada página de la wiki, puedes navegar manualmente pero es más cómodo hacerlo desde aqui.
+
+<br>
+
+#### Overlord: Ejército Esquelético
+
+<br>
+
+**[Recetas](https://github.com/OMG67/Retratoland-Wiki/blob/master/recetas.md)**
+
+_En esta página se hablan de las recetas de los diferentes esqueletos, los pros y los contras y de como hacerlos aparecer entre otras cosas_

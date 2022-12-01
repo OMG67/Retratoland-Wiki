@@ -2,7 +2,7 @@
 
 *Hay 4 tipos de esqueletos, aqui teneis tanto la como crear la tumba para hacer aparecer a los esqueletos como las recetas necesarias.*
 
-
+<br>
 
 ## TUMBA
 
@@ -100,4 +100,6 @@ Contras: Extremadamente caro, opcionales caros, requiere buenas armas y armadura
 
 ## Generación De Esqueletos
 
-Ahora que hemos definido los esqueletos y sus costes, 
+Ahora que hemos definido los esqueletos y sus costes, vamos a ver como hacerlos aparecer.
+
+Lo primero es acabar de construir la tumba, colocando dos bloques de tierra 
