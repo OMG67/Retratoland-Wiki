@@ -40,6 +40,8 @@ Al hacer click derecho con el atlas en mano, nos aparecerá un mapa más grande 
 
 Abajo a la izquierda se ve la escala de bloques en el mapa actual, cambiará según el nivel de zoom que tengamos.
 
+<br>
+
 Si nos vamos al menú de la derecha, de arriba a abajo hay los botones de:
 
 - Añadir Marcador
@@ -47,7 +49,9 @@ Si nos vamos al menú de la derecha, de arriba a abajo hay los botones de:
 - Ocultar Marcadores
 - Exportar Imagen
 
-#### Añadir Marcador
+<br>
+
+### Añadir Marcador
 
 Este botón permite, tal y como indica su nombre, añadir marcadores. Al hacerle click nos saldrá un menú que nos permitirá seleccionar un icono y un nombre para el mismo.
 
@@ -66,7 +70,7 @@ _El orden de los marcadores es desde el más reciente, significando que si ahora
 
 <br>
 
-#### Eliminar Marcador
+### Eliminar Marcador
 
 Eliminar marcados es aún más fácil de usar que añadir marcador, simplemente hemos de ir al botón, hacer click y luego hacer click al marcador que queramos eliminar, ya sea en el mapa o en el menú de la izquierda.
 
@@ -76,13 +80,13 @@ Eliminar marcados es aún más fácil de usar que añadir marcador, simplemente 
 
 <br>
 
-#### Ocultar Marcadores
+### Ocultar Marcadores
 
 Simplemente hace que los marcadores no se vean pero sin eliminarlos, además también oculta al jugador.
 
 <br>
 
-#### Exportar Imagen
+### Exportar Imagen
 
 
 ⚠️ <font color="red">_Advertencia: tu pc puede congelarse al darle, e incluso puede crashear minecraft si no le das tiempo a cargarlo todo y empiezas a hacer click antes de que termine_</font>
