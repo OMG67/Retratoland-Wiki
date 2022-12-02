@@ -1,4 +1,11 @@
-[Volver](https://github.com/OMG67/Retratoland-Wiki/blob/master/introducci%C3%B3n.md)
+# Nivel Tecnológico
+
+<br>
+
+<center><img src="/imgs/evolution.png"
+         alt="Recetas Atlas"></center>
+
+<br>
 
 *El nivel tecnológico es un sistema que tiene el servidor para medir que items se pueden tener y cuales no, entre otras cosas.*
 

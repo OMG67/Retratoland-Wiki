@@ -1,7 +1,10 @@
+# Creación De Ejército
+
+<br>
+
 <figure>
-    <img src="/imgs/army.png"
-         alt="Overlord Default Picture"
-         width="1200" height="600">
+    <center><img src="/imgs/army.png"
+         alt="Overlord Default Picture"></center>
 </figure>
 
 *Los esqueletos no se pueden crear en una mesa de crafteo o hacer aparecer como un golem, tienen un lugar propio donde hacerlos aparecer con sus propias recetas.*
@@ -110,4 +113,4 @@ Ahora que hemos definido los esqueletos y sus costes, vamos a ver como hacerlos 
 
 Lo primero es acabar de construir la tumba, colocando dos bloques de tierra.
 
-[Volver](https://github.com/OMG67/Retratoland-Wiki/blob/master/introducci%C3%B3n.md)
+[Volver](https://github.com/OMG67/Retratoland-Wiki/blob/master/index.md)
