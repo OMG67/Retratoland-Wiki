@@ -12,6 +12,12 @@
 _En esta página se explica el significado de nivel tecnológico y sus efectos_
 
 <br>
+
+**[Atlas](https://github.com/OMG67/Retratoland-Wiki/blob/master/general/niveltecnologico.md)**
+
+_En esta página explicamos que es el **Atlas**, como crearlo y como usarlo_
+
+<br>
 <br>
 
 #### Overlord: Ejército Esquelético
