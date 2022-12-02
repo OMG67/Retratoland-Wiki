@@ -1,6 +1,6 @@
-[Volver](https://github.com/OMG67/Retratoland-Wiki/blob/master/introducci%C3%B3n.md)
+# Atlas
 
-<body style="background-color: black;"></body>
+<br>
 
 *El atlas es un nuevo item que sustituye a los minimapas añadiendo la funcionalidad de mantener un mapa con marcadores personalizados que tiene tanto tamaño como el jugador explore.*
 
@@ -30,4 +30,4 @@ Una vez tenemos el libro en mano podemos hacer click derecho, igual que un mapa 
 
 
 
-[Volver](https://github.com/OMG67/Retratoland-Wiki/blob/master/introducci%C3%B3n.md)
+[Volver](https://github.com/OMG67/Retratoland-Wiki/blob/master/index.md)

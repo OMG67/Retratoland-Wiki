@@ -45,4 +45,4 @@ Texto de ejemplo
 
 <br>
 
-[Volver](https://github.com/OMG67/Retratoland-Wiki/blob/master/introducci%C3%B3n.md)
+[Volver](https://github.com/OMG67/Retratoland-Wiki/blob/master/index.md)
